@@ -1,0 +1,11 @@
+{
+  "name": "pure-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luasy/pure-study.git",
+  "author": "liujinghan <jinghan.liu@yunjiaplus.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-lope": "^1.0.0"
+  }
+}
